@@ -16,6 +16,8 @@ The correction is very advanced and uses [DeepL API](https://www.deepl.com/docs-
 ```
 * Place `autocorrect_terminal.py` and `credentials.json` in a folder named `better_english`, and move it to `/Users/your_username/Public/Drop Box`.
 The file `autocorrect_test.py` does not need to be in this folder, you can use it for testing purposes in a Python IDE.
+* Open `better_english.workflow` with Automator and change in the shell script the line `cd "/Users/hugoqueinnec/Public/Drop Box/better_english"` to `cd "/Users/your_username/Public/Drop Box/better_english"`. Alternatively, you can open `better_english.workflow` as a folder in an IDE and make this change at the line 140 of `better_english.workflow>Contents>document.wflow`.
+* cd "/Users/hugoqueinnec/Public/Drop Box/better_english"
 * Place the file `better_english.workflow` in `~/Library/Services`. This will be used for the keyboard shortcut.
 * Finally, go to `System Preferences>Keyboard>Shortcuts` on your Mac. Select App Shortcuts on the left, click the Add button.
 In the Menu Title field, type `better_english`. Then in the Keyboard Shortcut field, press the key combination that you want to use as the keyboard shortcut (for example ⌃⌥B) , then click Add.
