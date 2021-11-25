@@ -1,7 +1,6 @@
 <p align="center">
   <img width="300" height="75" src="Resources/logo.png">
 </p>
-<br/>
 
 # BetterEnglish *using DeepL API*
 
