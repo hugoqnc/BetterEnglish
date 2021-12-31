@@ -14,7 +14,7 @@ The correction is very advanced and uses [DeepL API](https://www.deepl.com/docs-
 ## Configuration
 * Sign-up for [DeepL API](https://www.deepl.com/docs-api/) to get your API key (for free).
 * Modify the `credentials.json` file inside the `BetterEnglish` folder to add your own API key (if you use DeepL Pro, you will also need to change the URL).
-* Move the folder `BetterEnglish` where you want to, for example `/Users/YOUR_USERNAME/Public/Drop Box`.
-* Add the shortcut [by clicking this link](https://www.icloud.com/shortcuts/d69408715bf748b1839a3727a1772aa1) on your Mac. When prompted, provide the previously set path to the `BetterEnglish` folder.
+* Move the folder `BetterEnglish` where you want to, for example in `/Users/YOUR_USERNAME/Documents/Shortcuts`.
+* Add the shortcut [by clicking this link](https://www.icloud.com/shortcuts/9a273aacc73e411e82426901ea77e8cd) on your Mac. When prompted, provide the previously set path to the `BetterEnglish` folder.
 
 You are now ready to go! To use this program, simply select or copy a text in English. Then press your keyboard shortcut ⌃⌥B, and paste the corrected result!
